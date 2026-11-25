@@ -49,3 +49,17 @@ print(_1st_user)
 # 파이썬 예약어(if, elif, else, for, while, …)를 사용할 수 없다
 import keyword
 print(keyword.kwlist)
+
+
+
+
+
+# False = 100
+
+# 직관적인 변수명을 사용한다
+a = 100
+num1 = 100
+name = "이름"
+
+#사용자 가입일
+user_enroll_date = "2026-11-25"
